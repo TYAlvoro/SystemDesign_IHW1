@@ -1,0 +1,16 @@
+---
+Type: income
+AccountName: "Основной счет"
+Amount: 1000
+Date: 2025-03-01
+Description: "Зарплата"
+CategoryName: "Зарплата"
+CategoryType: income
+---
+Type: expense
+AccountName: "Основной счет"
+Amount: 200
+Date: 2025-03-02
+Description: "Кафе"
+CategoryName: "Кафе"
+CategoryType: expense
