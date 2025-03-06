@@ -1,0 +1,3 @@
+Type,AccountName,Amount,Date,Description,CategoryName,CategoryType
+income,Основной счет,1000,2025-03-01,Зарплата,Зарплата,income
+expense,Основной счет,200,2025-03-02,Кафе,Кафе,expense
