@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FacadeTests
-build_property.ProjectDir = /Users/alvoro/RiderProjects/FacadeTests/
+build_property.ProjectDir = /Users/alvoro/RiderProjects/IHW1/FacadeTests/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

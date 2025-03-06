@@ -5631,11 +5631,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alvoro/RiderProjects/FacadeTests/FacadeTests.csproj",
+      "projectUniqueName": "/Users/alvoro/RiderProjects/IHW1/FacadeTests/FacadeTests.csproj",
       "projectName": "FacadeTests",
-      "projectPath": "/Users/alvoro/RiderProjects/FacadeTests/FacadeTests.csproj",
+      "projectPath": "/Users/alvoro/RiderProjects/IHW1/FacadeTests/FacadeTests.csproj",
       "packagesPath": "/Users/alvoro/.nuget/packages/",
-      "outputPath": "/Users/alvoro/RiderProjects/FacadeTests/obj/",
+      "outputPath": "/Users/alvoro/RiderProjects/IHW1/FacadeTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alvoro/.nuget/NuGet/NuGet.Config"
@@ -5650,8 +5650,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/alvoro/RiderProjects/Yahyaev_SD_IHW_1/Yahyaev_SD_IHW_1.csproj": {
-              "projectPath": "/Users/alvoro/RiderProjects/Yahyaev_SD_IHW_1/Yahyaev_SD_IHW_1.csproj"
+            "/Users/alvoro/RiderProjects/IHW1/Yahyaev_SD_IHW_1/Yahyaev_SD_IHW_1.csproj": {
+              "projectPath": "/Users/alvoro/RiderProjects/IHW1/Yahyaev_SD_IHW_1/Yahyaev_SD_IHW_1.csproj"
             }
           }
         }

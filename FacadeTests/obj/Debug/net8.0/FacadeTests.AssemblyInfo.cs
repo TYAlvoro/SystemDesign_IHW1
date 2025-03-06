@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FacadeTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ce8b6bc2b71856aa04c07240fbe0cf7379f6219")]
 [assembly: System.Reflection.AssemblyProductAttribute("FacadeTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FacadeTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

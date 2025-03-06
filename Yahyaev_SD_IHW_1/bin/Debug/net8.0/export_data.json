@@ -1,54 +1,54 @@
 {
   "BankAccounts": [
     {
-      "Id": "de5d257b-9b2a-45ef-988a-7482ea1acd36",
+      "Id": "6c075edd-6343-484c-8af8-27b41a287897",
       "Name": "Основной счет",
       "Balance": 800
     }
   ],
   "Categories": [
     {
-      "Id": "9dceb39f-2380-444f-afb2-99d25883ac5b",
+      "Id": "8d25dbaf-2acc-491d-9227-2a8abb542d53",
       "Type": 0,
       "Name": "Зарплата"
     },
     {
-      "Id": "810339d3-3441-4b33-ad8d-b401abf601eb",
+      "Id": "680f5d46-065c-4faa-bdb2-420601d8c47b",
       "Type": 1,
       "Name": "Кафе"
     }
   ],
   "Operations": [
     {
-      "Id": "6447fd5d-47a4-4acf-ba70-32f3e198d6f3",
+      "Id": "7bf40860-64d0-406c-93e2-d81b54315c07",
       "Type": 0,
       "BankAccount": {
-        "Id": "de5d257b-9b2a-45ef-988a-7482ea1acd36",
+        "Id": "6c075edd-6343-484c-8af8-27b41a287897",
         "Name": "Основной счет",
         "Balance": 800
       },
       "Amount": 1000,
-      "Date": "2025-03-04T19:31:32.153471+03:00",
+      "Date": "2025-03-04T19:43:12.198248+03:00",
       "Description": "Зарплата за февраль",
       "Category": {
-        "Id": "9dceb39f-2380-444f-afb2-99d25883ac5b",
+        "Id": "8d25dbaf-2acc-491d-9227-2a8abb542d53",
         "Type": 0,
         "Name": "Зарплата"
       }
     },
     {
-      "Id": "4b0009cc-11ab-4698-b568-975bc484b4fc",
+      "Id": "312660a0-3df0-4eb1-9949-919945c8df27",
       "Type": 1,
       "BankAccount": {
-        "Id": "de5d257b-9b2a-45ef-988a-7482ea1acd36",
+        "Id": "6c075edd-6343-484c-8af8-27b41a287897",
         "Name": "Основной счет",
         "Balance": 800
       },
       "Amount": 200,
-      "Date": "2025-03-05T19:31:32.170858+03:00",
+      "Date": "2025-03-05T19:43:12.215909+03:00",
       "Description": "Обед в кафе",
       "Category": {
-        "Id": "810339d3-3441-4b33-ad8d-b401abf601eb",
+        "Id": "680f5d46-065c-4faa-bdb2-420601d8c47b",
         "Type": 1,
         "Name": "Кафе"
       }

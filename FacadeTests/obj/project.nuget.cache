@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fuSb6HxHoVI=",
+  "dgSpecHash": "1DMVWyhb120=",
   "success": true,
-  "projectFilePath": "/Users/alvoro/RiderProjects/FacadeTests/FacadeTests.csproj",
+  "projectFilePath": "/Users/alvoro/RiderProjects/IHW1/FacadeTests/FacadeTests.csproj",
   "expectedPackageFiles": [
     "/Users/alvoro/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/Users/alvoro/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",

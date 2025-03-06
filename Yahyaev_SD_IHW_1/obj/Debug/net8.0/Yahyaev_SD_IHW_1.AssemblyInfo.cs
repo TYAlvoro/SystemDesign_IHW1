@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Yahyaev_SD_IHW_1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebcc7be973ce4b63fcce4a514a0122b2d84cfaa0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ce8b6bc2b71856aa04c07240fbe0cf7379f6219")]
 [assembly: System.Reflection.AssemblyProductAttribute("Yahyaev_SD_IHW_1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Yahyaev_SD_IHW_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
